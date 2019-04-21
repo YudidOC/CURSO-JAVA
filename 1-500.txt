@@ -1,0 +1,11 @@
+DEL 1 AL 500
+ public static void main(String[] args) {
+        // TODO code application logic here
+          int n=500;
+          int c=1;
+          while(c<=n)
+          {
+          System.out.println(c);
+          c=(c+1);// TAMBIEN SE PUEDE PONER C++ TAMBIEN FUNCIONA
+         }  
+    }
