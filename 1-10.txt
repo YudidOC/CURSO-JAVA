@@ -1,0 +1,11 @@
+DEL 1 AL 10
+public static void main(String[] args) {
+        // TODO code application logic here
+         int n=1;
+         while(n<=10){
+         System.out.println(n);
+         n=(n+1);
+         }
+    }
+    
+}
